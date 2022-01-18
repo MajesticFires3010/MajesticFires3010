@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python & MySQL
 - 😎 Languages Learnt : Python, MySQL, HTML, CSS, QBASIC, Visual BASIC, Logo & Many More to Count.
-- I Like Ethical Hacking along having a great curiousity towards learing New Tech things.
+- I Like Ethical Hacking, Modding as well as Creating Cool Photoshops 😎 along having a great curiousity towards learing New Tech things.
 
 
 <!---
