@@ -11,7 +11,6 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aditya_bhatt3010/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-bhatt-b61868250/) 
-[![Reddit]()]([https://www.linkedin.com/in/aditya-bhatt-b61868250/](https://img.shields.io/reddit/user-karma/link/Majestic_Fires)) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MajesticFires3010&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
