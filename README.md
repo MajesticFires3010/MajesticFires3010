@@ -1,10 +1,14 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development.<br>🌱 I’m currently learning Blockchain.<br>💬 Ask me about my interests.<br>
+
+🔭 I’m currently working on enhancing my Java Projects.<br>
+🌱 I’m currently learning Ethical Hacking.<br>
+💬 Ask me about my interests.<br>
 
 [!MajesticFires3010's Web3 | Identity](https://stats.quine.sh/MajesticFires3010/web3?theme=dark)](https://quine.sh)
 
 [![MajesticFires3010's GitHub | Stats](https://stats.quine.sh/MajesticFires3010/github?theme=dark)](https://quine.sh)
 
+[![MajesticFires3010's GitHub | Languages Over Time](https://stats.quine.sh/MajesticFires3010/languages-over-time?theme=dark)](https://quine.sh)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aditya_bhatt3010/)
