@@ -5,8 +5,6 @@
 
 [![MajesticFires3010's GitHub | Stats](https://stats.quine.sh/MajesticFires3010/github?theme=dark)](https://quine.sh)
 
-[![MajesticFires3010's GitHub | Languages Over Time](https://stats.quine.sh/MajesticFires3010/languages-over-time?theme=dark)](https://quine.sh)
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aditya_bhatt3010/)
