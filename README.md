@@ -4,8 +4,6 @@
 🌱 I’m currently learning Ethical Hacking.<br>
 💬 Ask me about my interests.<br>
 
-[!MajesticFires3010's Web3 | Identity](https://stats.quine.sh/MajesticFires3010/web3?theme=dark)](https://quine.sh)
-
 [![MajesticFires3010's GitHub | Stats](https://stats.quine.sh/MajesticFires3010/github?theme=dark)](https://quine.sh)
 
 [![MajesticFires3010's GitHub | Languages Over Time](https://stats.quine.sh/MajesticFires3010/languages-over-time?theme=dark)](https://quine.sh)
