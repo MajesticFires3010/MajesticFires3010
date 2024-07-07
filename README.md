@@ -8,6 +8,8 @@
 
 [![MajesticFires3010's GitHub | Languages Over Time](https://stats.quine.sh/MajesticFires3010/languages-over-time?theme=dark)](https://quine.sh)
 
+[![MajesticFires3010's GitHub | Dependencies](https://stats.quira.sh/MajesticFires3010/dependencies?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=MajesticFires3010)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aditya_bhatt3010/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-bhatt-b61868250/) 
